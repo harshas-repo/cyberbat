@@ -14,12 +14,12 @@ and XGBoost is used to generate the machine learning model.
 
 #### Wiring For Mono Mic
 
-    - Mic 3V - Pi 3.3v
-    - Mic Gnd - Pi Gnd
-    - Mic SEL - Pi Gnd (this is used for channel selection. Connect to 3.3 or GND)
-    - Mic BCLK - BCM 18 (pin 12)
-    - Mic LRCL - BCM 19 (pin 35)
-    - Mic DOUT - BCM 20 (pin 38)
+- Mic 3V - Pi 3.3v
+- Mic Gnd - Pi Gnd
+- Mic SEL - Pi Gnd (this is used for channel selection. Connect to 3.3 or GND)
+- Mic BCLK - BCM 18 (pin 12)
+- Mic LRCL - BCM 19 (pin 35)
+- Mic DOUT - BCM 20 (pin 38)
 
 ![img](<https://github.com/harshas-repo/cyberbat/resources/System\ Architecture.png>)
 ![img](https://github.com/harshas-repo/cyberbat/resources/MFCC.png)
