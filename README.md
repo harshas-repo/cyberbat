@@ -21,9 +21,9 @@ and XGBoost is used to generate the machine learning model.
 - Mic LRCL - BCM 19 (pin 35)
 - Mic DOUT - BCM 20 (pin 38)
 
-![img](<https://github.com/harshas-repo/cyberbat/blob/main/resources/System%20Architecture.png>)
-![img](<https://github.com/harshas-repo/cyberbat/blob/main/resources/MFCC.pn>g)
-![img](<https://github.com/harshas-repo/cyberbat/blob/main/resources/Machine%20Learning%20flowchart.png>)
-![img](<https://github.com/harshas-repo/cyberbat/blob/main/resources/System%20Flow%20chart.png>)
-![img](<https://github.com/harshas-repo/cyberbat/blob/main/resources/pi%20and%20mic.png>)
+![img](https://github.com/harshas-repo/cyberbat/blob/main/resources/System%20Architecture.png)
+![img](https://github.com/harshas-repo/cyberbat/blob/main/resources/MFCC.png)
+![img](https://github.com/harshas-repo/cyberbat/blob/main/resources/Machine%20Learning%20flowchart.png)
+![img](https://github.com/harshas-repo/cyberbat/blob/main/resources/System%20Flow%20chart.png)
+![img](https://github.com/harshas-repo/cyberbat/blob/main/resources/pi%20and%20mic.png)
 For balancing false alarm (False positive) and mixed event (False Negative) we are using f1 score for evaluation.
