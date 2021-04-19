@@ -63,4 +63,4 @@ In this post you will discover XGBoost and get a gentle introduction to what is,
 # Conclusion :
 
 We achieved 100% accurate results for detecting the air borne anomalies in the machinery at an industrial area for the given dataset. And we proposed a mesh network of edge devices
-using raspberry pi 4 coupled with microphones. Refer the python [notebook](https://github.com/harshas-repo/cyberbat/blob/main/cyberbat.ipynb) for relevant code and a model is created as .sva for reference.
+using raspberry pi 4 coupled with microphones. Refer the python [notebook](https://github.com/harshas-repo/cyberbat/blob/main/cyberbat.ipynb) for relevant code and a model is created as .sav or reference.
