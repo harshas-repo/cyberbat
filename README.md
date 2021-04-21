@@ -43,7 +43,7 @@ This frequency warping can allow for better representation of sound, for example
 [XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/) is an algorithm that has recently been dominating applied machine learning and Kaggle competitions for structured or tabular data. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance.
 In this post you will discover XGBoost and get a gentle introduction to what is, where it came from and how you can learn more.
 
-## MFCC Working :
+## Block Diagram depicts step-wise summary of how we achive MFCCs:
 
 ![img](https://github.com/harshas-repo/cyberbat/blob/main/resources/MFCC.png)
 
