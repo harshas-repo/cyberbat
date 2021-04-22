@@ -9,7 +9,7 @@ Refer the problem statement and other specifics here [SAP code](https://sap-code
 ## Working :
 
 A mesh of network of edge devices like Raspberrypi 4 B with multiple microphones connected to it are deployed across the industrial site.
-The sound picked up by the microphones is further analysed and optmised for the detection of the anomoly based on the sound of the machine.
+The sound picked up by the microphones is further analysed and optmised for the detection of the anomoly based on the sound made by the machine.
 The continuous sound processing is done and sound captured by one microphone will be transferred to the neighbouring nodes in the mesh for federated learning.
 We used MFCC for feature extraction and XGBoost for modeling and acheived 100% accuracy for the given dataset MIMII.
 
@@ -62,5 +62,5 @@ In this post you will discover XGBoost and get a gentle introduction to what is,
 
 # Conclusion :
 
-We achieved 100% accurate results for detecting the air borne anomalies in the machinery at an industrial area for the given dataset. And we proposed a mesh network of edge devices
+We achieved 100% f1 score for detecting the air borne anomalies in the machinery at an industrial area for the given dataset. And we proposed a mesh network of edge devices
 using raspberry pi 4 coupled with microphones. Refer the python [notebook](https://github.com/harshas-repo/cyberbat/blob/main/cyberbat.ipynb) for relevant code and a model is created as .sav or reference.
